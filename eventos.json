@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "5 SECONDS OF SUMMER",
+        "img": "./images/5sos.jpeg",
+        "precio": 500,
+        "disponibles": 2 
+    },
+    {
+        "id": 2,
+        "nombre": "BLACKBEAR",
+        "img": "./images/blackbear.jpeg",
+        "precio": 780,
+        "disponibles": 0 
+    },
+    {
+        "id": 3,
+        "nombre": "BRING ME THE HORIZON",
+        "img": "./images/bmth.jpg",
+        "precio": 13500,
+        "disponibles": 0 
+    },
+    {
+        "id": 4,
+        "nombre": "TWNTY ONE PILOTS",
+        "img": "./images/top.jpg",
+        "precio": 1750,
+        "disponibles": 10 
+    },
+    {
+        "id": 5,
+        "nombre": "LINKIN PARK",
+        "img": "./images/linkin-park.jpeg",
+        "precio": 550,
+        "disponibles": 6 
+    },
+    {
+        "id": 6,
+        "nombre": "HARRY STYLES",
+        "img": "./images/harry.jpeg",
+        "precio": 2350,
+        "disponibles": 0 
+    },
+    {
+        "id": 7,
+        "nombre": "BAD OMENS",
+        "img": "./images/bad-omens.jpg",
+        "precio": 650,
+        "disponibles": 7 
+    },
+    {
+        "id": 8,
+        "nombre": "JUSTIN BIEBER",
+        "img": "./images/jb.jpg",
+        "precio": 770,
+        "disponibles": 5 
+    }
+]
